@@ -3,7 +3,11 @@
 
 <h1 align="center">Hi 👋, I'm Rani Kumari</h1>
 <h3 align="center">A passionate frontend , backend developer and tech enthusiast from NIT Patna.</h3>
-<img align="center" alt="Coding" width="200" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUv_gWS__Ftwgz6gMGukjypgKkWqESCCBP7Q&usqp=CAU">
+<img align="center" alt="Coding" width="200" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUv_gWS__Ftwgz6gMGukjypgKkWqESCCBP7Q&usqp=CAU"><img align="center" alt="Coding" width="800" height="200" src="<img align="center" alt="Coding" width="200" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUv_gWS__Ftwgz6gMGukjypgKkWqESCCBP7Q&usqp=CAU">
+
+
+
+
 
 
 
