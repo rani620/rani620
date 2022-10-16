@@ -1,8 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqpcYKzBYXhvaNlDLoXslJtbeM5fOpYgz_MQ&usqp=CAU)]()
 
 
 <h1 align="center">Hi 👋, I'm Rani Kumari</h1>
-<h3 align="center">A passionate frontend developer and tech enthusiast from India.</h3>
+<h3 align="center">A passionate frontend , backend developer and tech enthusiast from NIT Patna.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F2131993%2Fscreenshots%2F15628402%2Fmedia%2F7bb0d27e44d8c2eff47276ae86bfd6a3.png%3Fcompress%3D1%26resize%3D400x300&imgrefurl=https%3A%2F%2Fdribbble.com%2Ftags%2Fgirl_developer&tbnid=NfT5sz_jwjIwlM&vet=12ahUKEwj92Mns68b6AhVBKbcAHeGbDNgQMygBegUIARCsAQ..i&docid=T4x-nr_oa73kRM&w=400&h=300&q=coder%20developer%203d%20image%20image%20of%20a%20girl&ved=2ahUKEwj92Mns68b6AhVBKbcAHeGbDNgQMygBegUIARCsAQ">
 
 
