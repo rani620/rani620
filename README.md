@@ -33,10 +33,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rani620&show_icons=true&locale=en" alt="rani620" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rani620&" alt="rani620" /></p>
-
-<div align="center">
  ## 🏆 Let's Connect & Thanks for reading till here!
  
+<div align="center">
  <img src = "https://octodex.github.com/images/daftpunktocat-thomas.gif" width="300" />
   </div>
 
