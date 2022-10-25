@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Rani Kumari</h1>
-<h3 align="center">A passionate frontend , backend developer and tech enthusiast from NIT Patna.</h3>
+<h3 align="center">A passionate frontend and backend developer || Open Source Contributer || Coder ||Tech Enthusiast</h3>
 <div id="header" align="center">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="200"/>
 </div> <br>
@@ -33,4 +33,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rani620&show_icons=true&locale=en" alt="rani620" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rani620&" alt="rani620" /></p>
+
+ ## 🏆 Let's Connect & Thanks for reading till here!
+ 
+ <img src = "https://octodex.github.com/images/daftpunktocat-thomas.gif" width="300" />
 
