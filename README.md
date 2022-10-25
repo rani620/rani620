@@ -3,6 +3,10 @@
 
 <h1 align="center">Hi 👋, I'm Rani Kumari</h1>
 <h3 align="center">A passionate frontend , backend developer and tech enthusiast from NIT Patna.</h3>
+
+<div align="center">
+<img src = "https://raw.githubusercontent.com/MrKrishnaAgarwal/MrKrishnaAgarwal/d30b296b0cf239ad535e017ef5e43ff4d5d26485/gitartwork.svg"
+
 <img align="right" alt="Coding" width="200" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUv_gWS__Ftwgz6gMGukjypgKkWqESCCBP7Q&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rani620&label=Profile%20views&color=0e75b6&style=flat" alt="rani620" /> </p>
 
