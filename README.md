@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Rani Kumari</h1>
-<h3 align="center">A passionate frontend and backend developer || Open Source Contributer || Coder ||Tech Enthusiast</h3>
+<h3 align="center">A passionate frontend and backend developer || Open Source Contributor || Coder ||Tech Enthusiast</h3>
 <div id="header" align="center">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="200"/>
 </div> <br>
