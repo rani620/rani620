@@ -7,7 +7,6 @@
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="200"/>
 </div> <br>
 
-<img align="right" alt="Coding" width="200" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUv_gWS__Ftwgz6gMGukjypgKkWqESCCBP7Q&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rani620&label=Profile%20views&color=0e75b6&style=flat" alt="rani620" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rani620" alt="rani620" /></a> </p>
