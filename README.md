@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Rani Kumari</h1>
 <h3 align="center">A passionate frontend and backend developer || Open Source Contributor || Coder ||Tech Enthusiast</h3>
 <div id="header" align="center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="200"/>
+  <img src="https://github.com/rani620/rani620/blob/main/image/Developer.gif?raw=true" width="200"/>
 </div> <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rani620&label=Profile%20views&color=0e75b6&style=flat" alt="rani620" /> </p>
@@ -31,7 +31,7 @@
 
 <div align="center">
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rani620&show_icons=true&locale=en&layout=compact" alt="rani620" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rani620&show_icons=true&locale=en&layout=compact" alt="rani620" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rani620&show_icons=true&locale=en" alt="rani620" /></p>
 
