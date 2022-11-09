@@ -39,9 +39,7 @@
   
   </div>
 
- ## 🏆 Let's Connect & Thanks for reading till here!
+ ## 🏆  Thanks for reading till here!
  
-<div align="center">
- <img src = "https://octodex.github.com/images/daftpunktocat-thomas.gif" width="300" />
-  </div>
+
 
